@@ -21,7 +21,7 @@ export const configuration = {
     dimensions: 3072,
     tableName: 'langchain_pg_embedding',
     collectionTableName: 'langchain_pg_collection',
-    collectionName: 'nextjs',
+    collectionName: 'documentation',
     columns: {
       idColumnName: 'id',
       vectorColumnName: 'embedding',
